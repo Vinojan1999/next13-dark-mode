@@ -16,11 +16,11 @@ export default function Home() {
       
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Say hi👋 to <a href="https://vinojan.online" target='_blank'>Vinojan</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+          This page is created with <code>Next 13.5.2</code>
         </p>
 
         <div className={styles.grid}>
